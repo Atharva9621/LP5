@@ -13,3 +13,8 @@
 
 | No. | Assignment Title |
 |-----|----------------------------------|
+|1    |Parallel Breadth First Search and Depth First Search using OpenMP|
+|2    |Parallel Bubble Sort and Merge sort using OpenMP|
+|3    |Implement Min, Max, Sum and Average operations using Parallel Reduction.|
+|4a   |Write a CUDA Program for Addition of two large vectors.|
+|4b   |Write a CUDA Program for Matrix Multiplication .|
